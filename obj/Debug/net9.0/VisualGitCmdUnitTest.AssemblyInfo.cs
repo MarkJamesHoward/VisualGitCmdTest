@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisualGitCmdUnitTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81c9082d14d8ba1dd6fae82dec03add238f7a273")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f557c6e4dee514983917342c5ddfb327adf6a24")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisualGitCmdUnitTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisualGitCmdUnitTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
